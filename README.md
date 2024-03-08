@@ -9,8 +9,8 @@
 
     <p> Aqui estou mostrando como será a rotina do São Paulo FC de segunda-feira a sexta-feira </p>
 
-    <img src="SAOPAULO1.jpg" alt="logo do São Paulo FC">
-    <img src="SAOPAULO2.jpg" alt="foto do São Paulo FC">
+    <img src="https://pin.it/5rtp2TZ7O" alt="logo do São Paulo FC">
+    <img src="https://pin.it/30fqvyRru" alt="foto do São Paulo FC">
 
     <ol>
         <li>Segunda-feira</li>
