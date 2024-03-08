@@ -3,49 +3,43 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="ICONE.ico" type="Aula-03/ICONE">
-    <title></title>
+    <title>Rotina do São Paulo FC</title>
 </head>
 <body>
-    <h1> LISTA DE ATIVIDADES NA SEMANA...</h1>
-   
-    <p> Aqui estou mostrando como será a rotina de segunda-feira a sexta-feira </p>
-   
-   
-    <img src="NEWTON1.jpg" alt="logo do Newton">
-    <img src="NEWTON2.jpg" alt="foto do Newton">
-    <img src="BARAO1.png" alt="logo do barão">
-    <img src="BARAO2.jpg" alt="foto do Barão">
-   
-   
-   
+
+    <p> Aqui estou mostrando como será a rotina do São Paulo FC de segunda-feira a sexta-feira </p>
+
+    <img src="SAOPAULO1.jpg" alt="logo do São Paulo FC">
+    <img src="SAOPAULO2.jpg" alt="foto do São Paulo FC">
+
+    <ol>
         <li>Segunda-feira</li>
-        <a href="segunda.html" target="_blank">Horário de segunda-feira dia 26/02</a>
-   
+        <a href="segunda_saopaulo.html" target="_blank">Horário de segunda-feira dia 26/02</a>
+
         <li>Terça-feira</li>
-        <a href="terca.html" target="_blank">Horário de terça-feira dia 27/02</a>
-   
+        <a href="terca_saopaulo.html" target="_blank">Horário de terça-feira dia 27/02</a>
+
         <li>Quarta-feira</li>
-        <a href="quarta.html" target="_blank">Horário de quarta-feira dia 27/02</a>
-       
+        <a href="quarta_saopaulo.html" target="_blank">Horário de quarta-feira dia 27/02</a>
+    
         <li>Quinta-feira</li>
-        <a href="quinta.html" target="_blank">Horário de quinta-feira dia 27/02</a>
-       
+        <a href="quinta_saopaulo.html" target="_blank">Horário de quinta-feira dia 27/02</a>
+    
         <li>Sexta-feira</li>
-        <a href="sexta.html" target="_blank">Horário de sexta-feira dia 27/02</a>
-       
+        <a href="sexta_saopaulo.html" target="_blank">Horário de sexta-feira dia 27/02</a>
     </ol>
+
     <h2> PARA VER TODOS OS ARQUIVOS</h2>
-    <a href="https://github.com/rogeriodfreis/HTML-CSS" target="_blank">Acesse o GitHub para pegar os exemplos feitos</a>
+    <a href="https://github.com/seu_usuario/HTML-CSS" target="_blank">Acesse o GitHub para pegar os exemplos feitos</a>
 
     <h2> PARA BAIXAR ESSE CONTEUDO EM PDF</h2>
-    <a href="https://github.com/rogeriodfreis/HTML-CSS/blob/main/COINI.pdf" target="_blank"  download="COINI.pdf" type="aplication/pdf">
+    <a href="https://github.com/seu_usuario/HTML-CSS/blob/main/SAOPAULO.pdf" target="_blank" download="SAOPAULO.pdf" type="application/pdf">
         Baixe aqui seu PDF dos principais comandos.
     </a>
-     <h2> PARA PUBLICAR O SITE</h2>
-   
-    <p> Rotinas para publicar o site.</p>
-   
-   
+
+    <h2> PARA PUBLICAR O SITE</h2>
+    <p> Rotinas para publicar o site do São Paulo FC.</p>
+
 </body>
 </html>
+
